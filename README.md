@@ -10,7 +10,7 @@ RiotTime is a community-driven platform that connects volunteers with people who
 
 - [White Paper](docs/.pdf) - Complete project specification
 - [Suggest a Feature](https://github.com/riotnation/riottime/issues/new) - Have an idea for improvement?
-- [Join Discussion](https://github.com/riotnation/riottime/discussions) - Share ideas with the community
+- [Join Discussion](https://github.com/riotnation/riottime/discussions/2) - Share ideas with the community
 
 
 ## Key Features
