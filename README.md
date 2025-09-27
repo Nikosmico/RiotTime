@@ -21,8 +21,6 @@ RiotTime is a community-driven platform that connects volunteers with people who
 - **Community Building**: Strengthen local networks through mutual aid
 - **Safe Platform**: Verified volunteers and secure communication channels
 
-```
-
 ## How It Works
 
 1. **Request Help**: Community members post tasks they need assistance with
