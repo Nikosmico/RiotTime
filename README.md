@@ -6,14 +6,6 @@
 
 RiotTime is a community-driven platform that connects volunteers with people who need help through both in-person tasks and online support. Our mission is to empower people to give the gift of time, creating meaningful connections across local and digital communities.
 
-## White Paper
-
-View the complete project documentation directly in your browser:
-
-[Open White Paper](docs/White_Paper.pdf)
-
-Click the link above to view the PDF using GitHub's built-in viewer.
-
 ## Quick Links
 
 - [White Paper](docs/White_Paper.pdf) - Complete project specification
