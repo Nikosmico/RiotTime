@@ -34,12 +34,8 @@ RiotTime is a community-driven platform that connects volunteers with people who
 - **Remote Help**: Tutoring, tech support, resume writing, language practice
 - **Emotional Support**: Friendly conversation, mental health support
 - **Skill Sharing**: Professional expertise, creative talents, practical skills
+- **Gifting**: Giving away unused items, community swaps, free equipment, book exchanges, clothing shares, tool libraries
 
-## Contributing
-
-We welcome contributions from developers, community organizers, and volunteers. Whether you can code, design, write, or help organize local chapters, your skills are valuable.
-
-See our [Contributing Guidelines](community/contributing.md) for more details.
 
 ## Contact
 
@@ -55,9 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Version | v1.0 (Planning) |
 | Last Updated | September 2024 |
-
-*"Time is the most valuable gift we can give each other."*
-
----
-
-*Last updated: September 2024*
