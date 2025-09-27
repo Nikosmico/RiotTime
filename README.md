@@ -8,20 +8,10 @@ RiotTime is a community-driven platform that connects volunteers with people who
 
 ## Quick Links
 
-- [White Paper](docs/White_Paper.pdf) - Complete project specification
-- [Report an Issue](https://github.com/riotnation/riottime/issues/new) - Found a bug or problem?
+- [White Paper](docs/.pdf) - Complete project specification
 - [Suggest a Feature](https://github.com/riotnation/riottime/issues/new) - Have an idea for improvement?
 - [Join Discussion](https://github.com/riotnation/riottime/discussions) - Share ideas with the community
 
-## Project Status
-
-| Aspect | Status |
-|--------|--------|
-| Version | v1.0 (Planning) |
-| Last Updated | September 2024 |
-| Next Review | October 2024 |
-| Maintainer | Riot Nation Team |
-| Contact | info@riotnation.click |
 
 ## Key Features
 
@@ -31,18 +21,6 @@ RiotTime is a community-driven platform that connects volunteers with people who
 - **Community Building**: Strengthen local networks through mutual aid
 - **Safe Platform**: Verified volunteers and secure communication channels
 
-## Repository Structure
-
-```
-RiotTime/
-├── docs/
-│   └── White_Paper.pdf          # Project documentation
-├── community/
-│   ├── volunteers.md            # Volunteer guidelines
-│   └── code-of-conduct.md       # Community standards
-├── README.md                    # This file
-├── LICENSE                      # MIT License
-└── .gitignore                   # Git ignore rules
 ```
 
 ## How It Works
@@ -77,7 +55,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**RiotTime** - Building stronger communities, one hour at a time.
+| Version | v1.0 (Planning) |
+| Last Updated | September 2024 |
 
 *"Time is the most valuable gift we can give each other."*
 
