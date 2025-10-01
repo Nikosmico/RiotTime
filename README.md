@@ -54,8 +54,9 @@ We believe every act of help deserves a sprinkle of appreciation! Check out our 
 
 ## 📨 Let's Connect!
 
-- ** Email**: info@riotnation.click (We love hearing from you!)
-- ** Website**: 
+- Email: info@riotnation.click (We love hearing from you!)
+- Buy the developers a coffee: https://ko-fi.com/riotnation
+- Website: 
 
 ---
 
